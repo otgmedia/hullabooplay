@@ -1039,9 +1039,9 @@ a {
   color: #ffcf00;
 }
 .cid-sFGOTvnvck {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #fafafa;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  background-color: #d7af01;
 }
 .cid-sFGOTvnvck .card-wrapper {
   padding-right: 2rem;
@@ -1062,6 +1062,10 @@ a {
 .cid-sFGOTvnvck .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sFGOTvnvck .card-title,
+.cid-sFGOTvnvck .card-box {
+  color: #000000;
 }
 .cid-sFGSOnwtIp {
   padding-top: 30px;
